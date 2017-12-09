@@ -1,1 +1,9 @@
-sadasdasdasdad
+Github proqramcilarin sosial medyasina benzer nezaret sistemleri ucun bir depodur. 
+Siz burada basga proqramcilarin ne etdiklerine baxa ve eyni zamanda onlarin kodlarindan istifade ede bilersiniz.
+Her hansi bir layihe ustunde tek ve ya qrup halinda islediyinizi dusunun, siz ve ya komandaniz eyni fayl ile islemeli
+ve layiheni tez basa catdirmalisiniz. Burda esas problem komandada birinin etdiyi deyisikliyin digerleri ile toqqusmasidir.
+Tek islediyiniz zaman bele kodda her hansi deyisiklik etdikden sora geri qaytarmaq olmur. Buna gorede Githubda kodlarimizi save ede
+bilerik.Githubda edilen deyisiklikler soradan geriye alina bilir ve ya komanda yoldasinizin etdiyi her hansi deyisiklik ayri ayri,
+ust uste olmadan qeyde alinir
+Burada kodlari opensource sekilde, yeni basgalarinin gore bileceyi sekilde ve yaxudd gizli sekilde paylasmaq da mumkundur.
+Hemde basga insanlarin icazesi ile onlarin kodlarinda deyisiklikler ede ve ya layihelerinde komeklik gostere bilersiniz,bunun
